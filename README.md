@@ -1,6 +1,6 @@
 # TypeSentinel 🫡
 
-Check for existing type aliases starting from their values.
+Check for existing type aliases given a custom type.
 
 ## Why?
 
