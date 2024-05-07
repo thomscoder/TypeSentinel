@@ -1,0 +1,10 @@
+{
+    "skip": [
+      "node_modules",
+      "sentinel.ts",
+      "index.ts"
+    ],
+    "collectTypes": true,
+    "strict": false
+  }
+  
