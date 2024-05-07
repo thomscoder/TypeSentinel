@@ -1,4 +1,4 @@
 {
-  "skip": ["node_modules", "sentinel.ts", "index.ts"],
+  "skip": ["node_modules", "output.ts", "src"],
   "collectTypes": true
 }
